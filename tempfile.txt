@@ -1,0 +1,17 @@
+Name: Ethan
+Race: Orc
+Class: Bard
+Level: 1
+HP: 66
+MP: 26
+Damage: 5
+Strength: 6
+Intelligence: 11
+Endurance: 9
+Agility: 11
+Luck: 10
+Head: empty
+Chest: Leather Doublet
+Legs: Cotton Pants
+Weapon: Wooden Crossbow
+Created on: June 10, 2024  8:32:15 P.M.

@@ -1,0 +1,17 @@
+Name: Ethan
+Race: Dwarf
+Class: Warrior
+Level: 1
+HP: 80
+MP: 20
+Damage: 19
+Strength: 20
+Intelligence: 5
+Endurance: 17
+Agility: 8
+Luck: 5
+Head: empty
+Chest: Chain Mail
+Legs: Chain Leggings
+Weapon: Battle Axe
+Created on: March 22, 2023  12:48:12 A.M.

@@ -1,0 +1,9 @@
+Ethan's Character Creator v1.0
+by Ethan Deatrick
+Created 5/9/2022
+
+This program will allow you to create your very own fantasy RPG character to be used in various ways such as tabletop games!
+The character will be saved at the end of the program to a .txt file for your future reference.
+Most inputs in the program are done with user mouseclicks on a GUI displayed on a graph.
+
+Images included will be used to determine a picture for the final character as well as some pictures to make the GUI.
